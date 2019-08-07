@@ -14,7 +14,7 @@ We provide a step-by-step instruction on running perception module with Nvidia G
     ```
 3. Run bootstrap.sh
     ```bash
-    bootstrap.sh
+    source scripts/bootstrap.sh
     ```
 4. Launch Dreamview from your web browser by typing following address
 http://localhost:8888/
